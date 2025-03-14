@@ -106,7 +106,7 @@ html{
   transition: 0.3s;
 }
 .card:hover {
-  transform: scale(1.04);
+  transform: scale(1.02);
   box-shadow: 15px 10px 2px rgb(rgb(38, 37, 37), rgb(28, 29, 28), rgb(28, 28, 29));
 }
 .socials i {
